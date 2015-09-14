@@ -1,0 +1,970 @@
+{ "type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1736, 38.7647]},
+		"properties": {
+			"title": "New_Chain_of_Rocks_Bridge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1764, 38.7606]},
+		"properties": {
+			"title": "Chain_of_Rocks_Bridge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.164, 34.1447]},
+		"properties": {
+			"title": "Colorado_Street_Bridge_(Pasadena,_California)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.249, 34.0625]},
+		"properties": {
+			"title": "Four_Level_Interchange"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1836, 38.6147]},
+		"properties": {
+			"title": "MacArthur_Bridge_(St._Louis)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1794, 38.6311]},
+		"properties": {
+			"title": "Martin_Luther_King_Bridge_(St._Louis)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1828, 38.665]},
+		"properties": {
+			"title": "McKinley_Bridge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7406, 37.0734]},
+		"properties": {
+			"title": "Rainbow_Bridge_(Kansas)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.942, 35.0335]},
+		"properties": {
+			"title": "Rio_Puerco_Bridge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.485, 34.7158]},
+		"properties": {
+			"title": "Old_Trails_Bridge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1831, 38.6181]},
+		"properties": {
+			"title": "Poplar_Street_Bridge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.5222, 41.0036]},
+		"properties": {
+			"title": "Standard_Oil_Gasoline_Station_(Odell,_Illinois)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.2862, 37.2094]},
+		"properties": {
+			"title": "Abou_Ben_Adhem_Shrine_Mosque"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.9844, 36.1439]},
+		"properties": {
+			"title": "Boston_Avenue_Methodist_Church"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.168, 34.9022]},
+		"properties": {
+			"title": "Wigwam_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.6667, 40.8331]},
+		"properties": {
+			"title": "Illinois_State_Police_Office_(Pontiac)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6681, 39.1772]},
+		"properties": {
+			"title": "Ariston_Cafe"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.7711, 37.9497]},
+		"properties": {
+			"title": "National_Bank_of_Rolla_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.619, 35.0771]},
+		"properties": {
+			"title": "Jones_Motor_Company"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.234, 34.0731]},
+		"properties": {
+			"title": "Figueroa_Street_Tunnels"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-108.741, 35.5293]},
+		"properties": {
+			"title": "Gallup_(Amtrak_station)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.586, 35.0782]},
+		"properties": {
+			"title": "Bank_of_the_West_Tower_(Albuquerque)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.611, 35.0809]},
+		"properties": {
+			"title": "Lobo_Theater"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.652, 35.085]},
+		"properties": {
+			"title": "KiMo_Theater"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.644, 35.0839]},
+		"properties": {
+			"title": "Old_Albuquerque_High_School"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.649, 35.0842]},
+		"properties": {
+			"title": "Sunshine_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.2904, 37.2091]},
+		"properties": {
+			"title": "Gillioz_Theatre"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.9808, 40.5175]},
+		"properties": {
+			"title": "Sprague's_Super_Service"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.0751, 41.4641]},
+		"properties": {
+			"title": "Route_66_Raceway"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.3689, 37.1741]},
+		"properties": {
+			"title": "66_Drive-In"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.65, 35.0847]},
+		"properties": {
+			"title": "First_National_Bank_Building_(Albuquerque)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6358, 41.8789]},
+		"properties": {
+			"title": "Willis_Tower"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.053, 35.1882]},
+		"properties": {
+			"title": "Kingman_(Amtrak_station)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.695, 35.0208]},
+		"properties": {
+			"title": "Winslow_(Amtrak_station)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.649, 35.1974]},
+		"properties": {
+			"title": "Flagstaff_(Amtrak_station)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6546, 39.8086]},
+		"properties": {
+			"title": "St._John's_Hospital_(Springfield,_Illinois)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.9836, 40.4775]},
+		"properties": {
+			"title": "McLean_County_Courthouse_and_Square"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.169, 40.3104]},
+		"properties": {
+			"title": "Dixie_Travel_Plaza"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.005, 34.1517]},
+		"properties": {
+			"title": "Aztec_Hotel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.656, 35.085]},
+		"properties": {
+			"title": "Skinner_Building_(Albuquerque,_New_Mexico)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.651, 35.0842]},
+		"properties": {
+			"title": "Rosenwald_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.667, 35.0925]},
+		"properties": {
+			"title": "La_Glorieta"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.664, 35.0889]},
+		"properties": {
+			"title": "Castle_Apartments"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.596, 35.0794]},
+		"properties": {
+			"title": "De_Anza_Motor_Lodge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.653, 35.0844]},
+		"properties": {
+			"title": "McCanna-Hubbell_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.605, 35.0794]},
+		"properties": {
+			"title": "Nob_Hill_Business_Center"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-103.716, 35.1719]},
+		"properties": {
+			"title": "Blue_Swallow_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.3966, 38.0646]},
+		"properties": {
+			"title": "Wagon_Wheel_Motel,_Café_and_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.3143, 37.1783]},
+		"properties": {
+			"title": "Boots_Court_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.2056, 41.6081]},
+		"properties": {
+			"title": "Standard_Oil_Gasoline_Station_(Plainfield,_Illinois)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.3343, 38.5722]},
+		"properties": {
+			"title": "Coral_Court_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-105.973, 35.6644]},
+		"properties": {
+			"title": "El_Rey_Inn"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.9126, 37.9365]},
+		"properties": {
+			"title": "John's_Modern_Cabins"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-98.5882, 35.5372]},
+		"properties": {
+			"title": "Provine_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.6389, 37.0804]},
+		"properties": {
+			"title": "Kan-O-Tex_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.7356, 39.0731]},
+		"properties": {
+			"title": "Soulsby_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.64, 37.6864]},
+		"properties": {
+			"title": "Munger-Moss_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.3351, 35.6586]},
+		"properties": {
+			"title": "Pops_(restaurant)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.3258, 35.6622]},
+		"properties": {
+			"title": "Arcadia_Round_Barn"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.1386, 41.3104]},
+		"properties": {
+			"title": "Gemini_Giant"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-96.8777, 35.7096]},
+		"properties": {
+			"title": "Chandler_Armory"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.9822, 38.6628]},
+		"properties": {
+			"title": "Brooks_Catsup_Bottle_Water_Tower"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.596, 34.8335]},
+		"properties": {
+			"title": "66_Motel_(Needles)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6322, 41.8781]},
+		"properties": {
+			"title": "Chicago_Board_of_Trade_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6237, 41.8796]},
+		"properties": {
+			"title": "Art_Institute_of_Chicago_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.9621, 36.6944]},
+		"properties": {
+			"title": "Afton_Station_Packard_Museum"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6672, 39.1692]},
+		"properties": {
+			"title": "Belvidere_Café,_Motel,_and_Gas_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.744, 34.559]},
+		"properties": {
+			"title": "Roy's_Motel_and_Café"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.568, 35.0778]},
+		"properties": {
+			"title": "Bowlin_Travel_Centers"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.058, 35.1889]},
+		"properties": {
+			"title": "Desert_Power_&_Water_Co._Electric_Power_Plant"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6331, 39.8392]},
+		"properties": {
+			"title": "Lazy_A_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7028, 37.075]},
+		"properties": {
+			"title": "Williams'_Store"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7347, 37.0258]},
+		"properties": {
+			"title": "Baxter_Springs_Independent_Oil_and_Gas_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.2314, 40.2603]},
+		"properties": {
+			"title": "Downey_Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.426, 35.5289]},
+		"properties": {
+			"title": "John_Osterman_Gas_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-103.71, 35.1733]},
+		"properties": {
+			"title": "Cactus_Motor_Lodge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-107.597, 35.0839]},
+		"properties": {
+			"title": "Acoma_Curio_Shop"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-107.986, 35.2842]},
+		"properties": {
+			"title": "Bowlin's_Old_Crater_Trading_Post"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-102.673, 35.271]},
+		"properties": {
+			"title": "Midpoint_Café"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-96.6544, 35.749]},
+		"properties": {
+			"title": "Rock_Café"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.5319, 35.4942]},
+		"properties": {
+			"title": "Milk_Bottle_Grocery"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.9547, 35.5314]},
+		"properties": {
+			"title": "Avant's_Cities_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.8731, 35.2153]},
+		"properties": {
+			"title": "West_Winds_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.4042, 35.4119]},
+		"properties": {
+			"title": "Casa_Grande_Hotel_(Elk_City,_Oklahoma)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.9914, 35.2189]},
+		"properties": {
+			"title": "Magnolia_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.6408, 35.2908]},
+		"properties": {
+			"title": "Sayre_Champlin_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.469, 34.1064]},
+		"properties": {
+			"title": "Bono's_Restaurant_and_Deli"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.2803, 35.4217]},
+		"properties": {
+			"title": "Canute_Service_Station"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.5034, 35.4923]},
+		"properties": {
+			"title": "Oklahoma_State_Capitol"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.745, 34.5569]},
+		"properties": {
+			"title": "Amboy,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.876, 34.5828]},
+		"properties": {
+			"title": "Bagdad,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-102.86, 35.2144]},
+		"properties": {
+			"title": "Boise,_Texas"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.545, 34.5614]},
+		"properties": {
+			"title": "Chambless,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.0175, 37.8764]},
+		"properties": {
+			"title": "Clementine,_Missouri"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-103.042, 35.1789]},
+		"properties": {
+			"title": "Glenrio,_New_Mexico_and_Texas"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.063, 34.9192]},
+		"properties": {
+			"title": "Goffs,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.7528, 35.2475]},
+		"properties": {
+			"title": "Hext,_Oklahoma"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.0608, 37.86]},
+		"properties": {
+			"title": "Hooker,_Missouri"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-116.16, 34.7211]},
+		"properties": {
+			"title": "Ludlow,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.8425, 37.4417]},
+		"properties": {
+			"title": "Sampson,_Missouri"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.986, 34.6267]},
+		"properties": {
+			"title": "Siberia,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.6025, 38.5086]},
+		"properties": {
+			"title": "Times_Beach,_Missouri"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.0533, 37.2731]},
+		"properties": {
+			"title": "Holman,_Missouri"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.245, 34.7336]},
+		"properties": {
+			"title": "Essex,_San_Bernardino_County,_California"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.727, 35.3692]},
+		"properties": {
+			"title": "Hackberry,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.5508, 37.1928]},
+		"properties": {
+			"title": "Plano,_Missouri"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.925, 36.162]},
+		"properties": {
+			"title": "Cyrus_Avery"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.5132, 37.0847]},
+		"properties": {
+			"title": "Route_66_Park"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.698, 35.0235]},
+		"properties": {
+			"title": "Standin'_on_the_Corner_Park"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.487, 35.2211]},
+		"properties": {
+			"title": "Ash_Fork,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.026, 35.2083]},
+		"properties": {
+			"title": "Kingman,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.631, 35.1992]},
+		"properties": {
+			"title": "Flagstaff,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.163, 34.9072]},
+		"properties": {
+			"title": "Holbrook,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.238, 35.2836]},
+		"properties": {
+			"title": "Houck,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.334, 34.9558]},
+		"properties": {
+			"title": "Joseph_City,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.423, 35.5344]},
+		"properties": {
+			"title": "Peach_Springs,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.959, 35.2914]},
+		"properties": {
+			"title": "Parks,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.496, 35.1008]},
+		"properties": {
+			"title": "Navajo_Springs,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.384, 35.0264]},
+		"properties": {
+			"title": "Oatman,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.874, 35.3283]},
+		"properties": {
+			"title": "Seligman,_Arizona"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.874, 35.3264]},
+		"properties": {
+			"title": "Seligman_Commercial_Historic_District"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.435, 34.3591]},
+		"properties": {
+			"title": "Summit_Inn"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.256, 34.0558]},
+		"properties": {
+			"title": "Interstate_110_and_State_Route_110_(California)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.431, 34.0807]},
+		"properties": {
+			"title": "Sunset_Boulevard"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.15, 34.1372]},
+		"properties": {
+			"title": "Bekins_Storage_Co._Roof_Sign"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.606, 34.8408]},
+		"properties": {
+			"title": "El_Garces_Hotel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.259, 34.0497]},
+		"properties": {
+			"title": "Figueroa_Street"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.4406, 41.0942]},
+		"properties": {
+			"title": "Historic_and_Architectural_Resources_of_Route_66_Through_Illinois"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6583, 39.8017]},
+		"properties": {
+			"title": "Maid-Rite_Sandwich_Shop_(Springfield,_Illinois)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6417, 41.8772]},
+		"properties": {
+			"title": "Lou_Mitchell's"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6488, 39.7624]},
+		"properties": {
+			"title": "Cozy_Dog_Drive_In"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.7976, 41.8255]},
+		"properties": {
+			"title": "Berwyn_Route_66_Museum"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.9394, 41.7475]},
+		"properties": {
+			"title": "Dell_Rhea's_Chicken_Basket"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.0576, 41.6739]},
+		"properties": {
+			"title": "White_Fence_Farm"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7047, 37.075]},
+		"properties": {
+			"title": "Riverton,_Kansas"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.5903, 38.5064]},
+		"properties": {
+			"title": "Route_66_State_Park"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.642, 35.0833]},
+		"properties": {
+			"title": "Central_Avenue_(Albuquerque,_New_Mexico)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.653, 35.0844]},
+		"properties": {
+			"title": "Maisel's_Indian_Trading_Post"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.601, 35.0796]},
+		"properties": {
+			"title": "Aztec_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-108.722, 35.5295]},
+		"properties": {
+			"title": "El_Rancho_Hotel_&_Motel"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-104.065, 35.0954]},
+		"properties": {
+			"title": "Richardson_Store"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.7331, 36.1937]},
+		"properties": {
+			"title": "Blue_Whale_of_Catoosa"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.4481, 36.4372]},
+		"properties": {
+			"title": "Ed_Galloway's_Totem_Pole_Park"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-98.035, 35.5617]},
+		"properties": {
+			"title": "Fort_Reno_(Oklahoma)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.5308, 35.4928]},
+		"properties": {
+			"title": "Gold_Dome"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.6453, 35.2744]},
+		"properties": {
+			"title": "Sayre_City_Park"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-100.249, 35.2268]},
+		"properties": {
+			"title": "U-Drop_Inn"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-101.754, 35.1941]},
+		"properties": {
+			"title": "The_Big_Texan_Steak_Ranch"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-101.987, 35.1872]},
+		"properties": {
+			"title": "Cadillac_Ranch"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.0924, 38.2413]},
+		"properties": {
+			"title": "Meramec_Caverns"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.806, 35.0881]},
+		"properties": {
+			"title": "Petrified_Forest_National_Park"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.084, 35.5003]},
+		"properties": {
+			"title": "Painted_Desert_(Arizona)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.873, 35.3261]},
+		"properties": {
+			"title": "Delgadillo's_Snow_Cap_Drive-In"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.294, 34.5372]},
+		"properties": {
+			"title": "California_Route_66_Museum"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.025, 34.9047]},
+		"properties": {
+			"title": "Harvey_House_(Barstow,_California)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.791, 34.5439]},
+		"properties": {
+			"title": "Amboy_Crater"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.449, 34.6653]},
+		"properties": {
+			"title": "Topock_Gorge"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6189, 41.876]},
+		"properties": {
+			"title": "Grant_Park_(Chicago)"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.194, 34.1085]},
+		"properties": {
+			"title": "Chicken_Boy"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.022, 35.0272]},
+		"properties": {
+			"title": "Meteor_Crater"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6239, 41.8794]},
+		"properties": {
+			"title": "Art_Institute_of_Chicago"
+			}
+		}
+	]
+}
