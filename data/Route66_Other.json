@@ -1,0 +1,577 @@
+{ "type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.5222, 41.0036]},
+		"properties": {
+			"title": "Standard_Oil_Gasoline_Station_(Odell,_Illinois)",
+			"type": "Attraction"
+			}
+		},		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.168, 34.9022]},
+		"properties": {
+			"title": "Wigwam_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.6667, 40.8331]},
+		"properties": {
+			"title": "Illinois_State_Police_Office_(Pontiac)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6681, 39.1772]},
+		"properties": {
+			"title": "Ariston_Cafe",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.619, 35.0771]},
+		"properties": {
+			"title": "Jones_Motor_Company",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.9808, 40.5175]},
+		"properties": {
+			"title": "Sprague's_Super_Service",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.0751, 41.4641]},
+		"properties": {
+			"title": "Route_66_Raceway",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.3689, 37.1741]},
+		"properties": {
+			"title": "66_Drive-In",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.169, 40.3104]},
+		"properties": {
+			"title": "Dixie_Travel_Plaza",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.005, 34.1517]},
+		"properties": {
+			"title": "Aztec_Hotel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.667, 35.0925]},
+		"properties": {
+			"title": "La_Glorieta",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.596, 35.0794]},
+		"properties": {
+			"title": "De_Anza_Motor_Lodge",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-103.716, 35.1719]},
+		"properties": {
+			"title": "Blue_Swallow_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.3966, 38.0646]},
+		"properties": {
+			"title": "Wagon_Wheel_Motel,_Café_and_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.3143, 37.1783]},
+		"properties": {
+			"title": "Boots_Court_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.2056, 41.6081]},
+		"properties": {
+			"title": "Standard_Oil_Gasoline_Station_(Plainfield,_Illinois)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.3343, 38.5722]},
+		"properties": {
+			"title": "Coral_Court_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-105.973, 35.6644]},
+		"properties": {
+			"title": "El_Rey_Inn",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.9126, 37.9365]},
+		"properties": {
+			"title": "John's_Modern_Cabins",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-98.5882, 35.5372]},
+		"properties": {
+			"title": "Provine_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.6389, 37.0804]},
+		"properties": {
+			"title": "Kan-O-Tex_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.7356, 39.0731]},
+		"properties": {
+			"title": "Soulsby_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.64, 37.6864]},
+		"properties": {
+			"title": "Munger-Moss_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.3351, 35.6586]},
+		"properties": {
+			"title": "Pops_(restaurant)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.1386, 41.3104]},
+		"properties": {
+			"title": "Gemini_Giant",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.9822, 38.6628]},
+		"properties": {
+			"title": "Brooks_Catsup_Bottle_Water_Tower",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.596, 34.8335]},
+		"properties": {
+			"title": "66_Motel_(Needles)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.9621, 36.6944]},
+		"properties": {
+			"title": "Afton_Station_Packard_Museum",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6672, 39.1692]},
+		"properties": {
+			"title": "Belvidere_Café,_Motel,_and_Gas_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.744, 34.559]},
+		"properties": {
+			"title": "Roy's_Motel_and_Café",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.568, 35.0778]},
+		"properties": {
+			"title": "Bowlin_Travel_Centers",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6331, 39.8392]},
+		"properties": {
+			"title": "Lazy_A_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7028, 37.075]},
+		"properties": {
+			"title": "Williams'_Store",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7347, 37.0258]},
+		"properties": {
+			"title": "Baxter_Springs_Independent_Oil_and_Gas_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.426, 35.5289]},
+		"properties": {
+			"title": "John_Osterman_Gas_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-103.71, 35.1733]},
+		"properties": {
+			"title": "Cactus_Motor_Lodge",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-107.597, 35.0839]},
+		"properties": {
+			"title": "Acoma_Curio_Shop",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-107.986, 35.2842]},
+		"properties": {
+			"title": "Bowlin's_Old_Crater_Trading_Post",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-102.673, 35.271]},
+		"properties": {
+			"title": "Midpoint_Café",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-96.6544, 35.749]},
+		"properties": {
+			"title": "Rock_Café",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.5319, 35.4942]},
+		"properties": {
+			"title": "Milk_Bottle_Grocery",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.9547, 35.5314]},
+		"properties": {
+			"title": "Avant's_Cities_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.8731, 35.2153]},
+		"properties": {
+			"title": "West_Winds_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.4042, 35.4119]},
+		"properties": {
+			"title": "Casa_Grande_Hotel_(Elk_City,_Oklahoma)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.9914, 35.2189]},
+		"properties": {
+			"title": "Magnolia_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.6408, 35.2908]},
+		"properties": {
+			"title": "Sayre_Champlin_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.469, 34.1064]},
+		"properties": {
+			"title": "Bono's_Restaurant_and_Deli",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.2803, 35.4217]},
+		"properties": {
+			"title": "Canute_Service_Station",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.698, 35.0235]},
+		"properties": {
+			"title": "Standin'_on_the_Corner_Park",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.435, 34.3591]},
+		"properties": {
+			"title": "Summit_Inn",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.15, 34.1372]},
+		"properties": {
+			"title": "Bekins_Storage_Co._Roof_Sign",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.606, 34.8408]},
+		"properties": {
+			"title": "El_Garces_Hotel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.4406, 41.0942]},
+		"properties": {
+			"title": "Historic_and_Architectural_Resources_of_Route_66_Through_Illinois",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6583, 39.8017]},
+		"properties": {
+			"title": "Maid-Rite_Sandwich_Shop_(Springfield,_Illinois)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6417, 41.8772]},
+		"properties": {
+			"title": "Lou_Mitchell's",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6488, 39.7624]},
+		"properties": {
+			"title": "Cozy_Dog_Drive_In",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.7976, 41.8255]},
+		"properties": {
+			"title": "Berwyn_Route_66_Museum",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.9394, 41.7475]},
+		"properties": {
+			"title": "Dell_Rhea's_Chicken_Basket",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.0576, 41.6739]},
+		"properties": {
+			"title": "White_Fence_Farm",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.5903, 38.5064]},
+		"properties": {
+			"title": "Route_66_State_Park",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.653, 35.0844]},
+		"properties": {
+			"title": "Maisel's_Indian_Trading_Post",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.601, 35.0796]},
+		"properties": {
+			"title": "Aztec_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-108.722, 35.5295]},
+		"properties": {
+			"title": "El_Rancho_Hotel_&_Motel",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-104.065, 35.0954]},
+		"properties": {
+			"title": "Richardson_Store",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.7331, 36.1937]},
+		"properties": {
+			"title": "Blue_Whale_of_Catoosa",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.4481, 36.4372]},
+		"properties": {
+			"title": "Ed_Galloway's_Totem_Pole_Park",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.6453, 35.2744]},
+		"properties": {
+			"title": "Sayre_City_Park",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-100.249, 35.2268]},
+		"properties": {
+			"title": "U-Drop_Inn",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-101.754, 35.1941]},
+		"properties": {
+			"title": "The_Big_Texan_Steak_Ranch",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-101.987, 35.1872]},
+		"properties": {
+			"title": "Cadillac_Ranch",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.0924, 38.2413]},
+		"properties": {
+			"title": "Meramec_Caverns",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.806, 35.0881]},
+		"properties": {
+			"title": "Petrified_Forest_National_Park",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.084, 35.5003]},
+		"properties": {
+			"title": "Painted_Desert_(Arizona)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.873, 35.3261]},
+		"properties": {
+			"title": "Delgadillo's_Snow_Cap_Drive-In",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.294, 34.5372]},
+		"properties": {
+			"title": "California_Route_66_Museum",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.025, 34.9047]},
+		"properties": {
+			"title": "Harvey_House_(Barstow,_California)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.791, 34.5439]},
+		"properties": {
+			"title": "Amboy_Crater",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.449, 34.6653]},
+		"properties": {
+			"title": "Topock_Gorge",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6189, 41.876]},
+		"properties": {
+			"title": "Grant_Park_(Chicago)",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.194, 34.1085]},
+		"properties": {
+			"title": "Chicken_Boy",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.022, 35.0272]},
+		"properties": {
+			"title": "Meteor_Crater",
+			"type": "Attraction"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6239, 41.8794]},
+		"properties": {
+			"title": "Art_Institute_of_Chicago",
+			"type": "Attraction"
+			}
+		}
+	]
+}
