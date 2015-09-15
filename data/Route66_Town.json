@@ -1,0 +1,206 @@
+{ "type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.745, 34.5569]},
+		"properties": {
+			"title": "Amboy,_California",
+			"type": "Town"
+			}
+		},	{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.876, 34.5828]},
+		"properties": {
+			"title": "Bagdad,_California",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-102.86, 35.2144]},
+		"properties": {
+			"title": "Boise,_Texas",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.545, 34.5614]},
+		"properties": {
+			"title": "Chambless,_California",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.0175, 37.8764]},
+		"properties": {
+			"title": "Clementine,_Missouri",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-103.042, 35.1789]},
+		"properties": {
+			"title": "Glenrio,_New_Mexico_and_Texas",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.063, 34.9192]},
+		"properties": {
+			"title": "Goffs,_California",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-99.7528, 35.2475]},
+		"properties": {
+			"title": "Hext,_Oklahoma",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.0608, 37.86]},
+		"properties": {
+			"title": "Hooker,_Missouri",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-116.16, 34.7211]},
+		"properties": {
+			"title": "Ludlow,_California",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.8425, 37.4417]},
+		"properties": {
+			"title": "Sampson,_Missouri",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.986, 34.6267]},
+		"properties": {
+			"title": "Siberia,_California",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.6025, 38.5086]},
+		"properties": {
+			"title": "Times_Beach,_Missouri",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.0533, 37.2731]},
+		"properties": {
+			"title": "Holman,_Missouri",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.245, 34.7336]},
+		"properties": {
+			"title": "Essex,_San_Bernardino_County,_California",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.727, 35.3692]},
+		"properties": {
+			"title": "Hackberry,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.5508, 37.1928]},
+		"properties": {
+			"title": "Plano,_Missouri",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.487, 35.2211]},
+		"properties": {
+			"title": "Ash_Fork,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.026, 35.2083]},
+		"properties": {
+			"title": "Kingman,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.631, 35.1992]},
+		"properties": {
+			"title": "Flagstaff,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.163, 34.9072]},
+		"properties": {
+			"title": "Holbrook,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.238, 35.2836]},
+		"properties": {
+			"title": "Houck,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.334, 34.9558]},
+		"properties": {
+			"title": "Joseph_City,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.423, 35.5344]},
+		"properties": {
+			"title": "Peach_Springs,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.959, 35.2914]},
+		"properties": {
+			"title": "Parks,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.496, 35.1008]},
+		"properties": {
+			"title": "Navajo_Springs,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.384, 35.0264]},
+		"properties": {
+			"title": "Oatman,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.874, 35.3283]},
+		"properties": {
+			"title": "Seligman,_Arizona",
+			"type": "Town"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-94.7047, 37.075]},
+		"properties": {
+			"title": "Riverton,_Kansas",
+			"type": "Town"
+			}
+		}
+	]
+}
