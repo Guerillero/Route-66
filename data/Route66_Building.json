@@ -1,0 +1,227 @@
+{ "type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.2862, 37.2094]},
+		"properties": {
+			"title": "Abou_Ben_Adhem_Shrine_Mosque",
+			"type": "Building"
+			}
+		},		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.9844, 36.1439]},
+		"properties": {
+			"title": "Boston_Avenue_Methodist_Church",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-91.7711, 37.9497]},
+		"properties": {
+			"title": "National_Bank_of_Rolla_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-108.741, 35.5293]},
+		"properties": {
+			"title": "Gallup_(Amtrak_station)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.586, 35.0782]},
+		"properties": {
+			"title": "Bank_of_the_West_Tower_(Albuquerque)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.611, 35.0809]},
+		"properties": {
+			"title": "Lobo_Theater",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.652, 35.085]},
+		"properties": {
+			"title": "KiMo_Theater",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.644, 35.0839]},
+		"properties": {
+			"title": "Old_Albuquerque_High_School",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.649, 35.0842]},
+		"properties": {
+			"title": "Sunshine_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.2904, 37.2091]},
+		"properties": {
+			"title": "Gillioz_Theatre",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.65, 35.0847]},
+		"properties": {
+			"title": "First_National_Bank_Building_(Albuquerque)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6358, 41.8789]},
+		"properties": {
+			"title": "Willis_Tower",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.053, 35.1882]},
+		"properties": {
+			"title": "Kingman_(Amtrak_station)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.695, 35.0208]},
+		"properties": {
+			"title": "Winslow_(Amtrak_station)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-111.649, 35.1974]},
+		"properties": {
+			"title": "Flagstaff_(Amtrak_station)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.6546, 39.8086]},
+		"properties": {
+			"title": "St._John's_Hospital_(Springfield,_Illinois)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-88.9836, 40.4775]},
+		"properties": {
+			"title": "McLean_County_Courthouse_and_Square",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.656, 35.085]},
+		"properties": {
+			"title": "Skinner_Building_(Albuquerque,_New_Mexico)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.651, 35.0842]},
+		"properties": {
+			"title": "Rosenwald_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.664, 35.0889]},
+		"properties": {
+			"title": "Castle_Apartments",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.653, 35.0844]},
+		"properties": {
+			"title": "McCanna-Hubbell_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.605, 35.0794]},
+		"properties": {
+			"title": "Nob_Hill_Business_Center",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.3258, 35.6622]},
+		"properties": {
+			"title": "Arcadia_Round_Barn",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-96.8777, 35.7096]},
+		"properties": {
+			"title": "Chandler_Armory",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6322, 41.8781]},
+		"properties": {
+			"title": "Chicago_Board_of_Trade_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-87.6237, 41.8796]},
+		"properties": {
+			"title": "Art_Institute_of_Chicago_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.058, 35.1889]},
+		"properties": {
+			"title": "Desert_Power_&_Water_Co._Electric_Power_Plant",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-89.2314, 40.2603]},
+		"properties": {
+			"title": "Downey_Building",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.5034, 35.4923]},
+		"properties": {
+			"title": "Oklahoma_State_Capitol",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.874, 35.3264]},
+		"properties": {
+			"title": "Seligman_Commercial_Historic_District",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-98.035, 35.5617]},
+		"properties": {
+			"title": "Fort_Reno_(Oklahoma)",
+			"type": "Building"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-97.5308, 35.4928]},
+		"properties": {
+			"title": "Gold_Dome",
+			"type": "Building"
+			}
+		}
+	]
+}
