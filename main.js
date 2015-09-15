@@ -10,11 +10,14 @@
       L.geoJson(data, {
         pointToLayer: function(feature, cords){
           var Marker = L.marker(cords, {icon: Icon});
-          Marker.bindPopup('<center>' + feature.properties.title + '<br><a href="http://' + lang +'.wikipedia.org/wiki/' + feature.properties.title + '" target="_blank">Link</a></center>');
+          Marker.bindPopup('<center>' + feature.properties.title + '<br/>' + feature.properties.type + '<br><a href="http://' + lang +'.wikipedia.org/wiki/' + feature.properties.title + '" target="_blank">Link</a></center>');
           return Marker;
         }
       }).addTo(map);
     });
   }
     
-  addPoints("/Route66/Route66.json", '/Route66/shield.png', 'en');
+  addPoints("/Route66/Route66_Building.json", '/Route66/BuildingShield.svg', 'en');
+  addPoints("/Route66/Route66_Town.json", '/Route66/TownShield.svg', 'en');
+  addPoints("/Route66/Route66_Attraction.json", '/Route66/AttractionShield.svg', 'en');
+  addPoints("/Route66/Route66_Other.json", '/Route66/shield.png', 'en');
