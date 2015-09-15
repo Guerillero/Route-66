@@ -1,0 +1,1 @@
+The data was extracted from [Quarry](http://quarry.wmflabs.org/) using the SQL queries found in this directory. Using a sieve, duplicates were removed from the CSVs. The resulting CSVs are found in the `data` directory. The CSVs were then turned into JSONs.
